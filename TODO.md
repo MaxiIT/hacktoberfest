@@ -3,5 +3,5 @@
 ✓ Bier besorgen  
 ✓ Dekorieren  
 _ 4 Pull Requests erstellt  
-_ Die Schlappen verlost  
+_ Die Schlappen verlosen  
 
