@@ -5,4 +5,4 @@
 ✓ Dekorieren  
 _ 4 Pull Requests erstellt  
 _ Die Schlappen verlosen  
-_ Gurken essen
+_  Trinkt mehr Bier
