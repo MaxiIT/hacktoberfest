@@ -1,4 +1,4 @@
-# Was es hier ztun gibt?
+# Was es hier zu tun gibt?
 
 ✓ Bier besorgen
 ✓ Dekorieren
